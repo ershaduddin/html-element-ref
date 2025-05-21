@@ -1,0 +1,29 @@
+.Where {
+	color:tomato;
+}
+
+.all-browser{
+	margin:0;
+	padding:10px;
+	background-color:blueviolet;
+}
+
+.all-browser>h1, .browser{
+	margin:10px;
+	padding:5px;
+	
+}
+
+
+.browser{
+	background-color:rosybrown;
+}
+
+.browser>h2, p{
+	margin:4px;
+	font-size:90;
+}
+.hero{
+	padding:100px;
+	background-color:honeydew;
+}
